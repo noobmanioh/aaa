@@ -3,7 +3,7 @@
 
 Sound = Instance.new("Sound", game:GetService("Workspace")) -- ตรงนี้ไม่ต้องไปสน นาจา ;0;
 Sound.Name = "Mrbeast" -- ชื่อเสียง \;
-Sound.SoundId = "rbxassetid://658625769" -- เลขขขขขเสียง ;/
+Sound.SoundId = "rbxassetid://336771379" -- เลขขขขขเสียง ;/
 Sound.Looped = false -- วนลูป :>
 Sound.Playing = true -- เล่นเสียง :<
 Sound.Volume = 1 -- ระดับเสียงงงงงงง ;-;
